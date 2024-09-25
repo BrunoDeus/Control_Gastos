@@ -1,4 +1,4 @@
-# Monthly Expense Tracker
+# Expense Tracker
 
 This is a simple web project to dynamically track monthly expenses by adding new expenses and automatically calculating the total. It is built with HTML, CSS, and JavaScript.
 
